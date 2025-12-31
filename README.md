@@ -1,5 +1,7 @@
 # mini-infra-lab
 
+![CI](https://github.com/<your-username>/mini-infra-lab/actions/workflows/ci.yml/badge.svg)
+
 A small “infrastructure lab” repo to practice DevOps fundamentals with a simple API service.
 
 ## Day 1: API + Docker + Compose
