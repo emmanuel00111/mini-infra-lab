@@ -2,3 +2,8 @@ fastapi
 uvicorn
 pydantic-settings
 python-dotenv
+
+# dev / ci
+pytest
+httpx
+ruff
