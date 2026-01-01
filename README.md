@@ -18,3 +18,12 @@ The service now supports environment-based configuration to better mirror real p
 An example environment file is provided:
 ```bash
 .env.example
+```
+
+## Day 4: Metrics (Prometheus)
+New endpoint:
+- `/metrics` — Prometheus-compatible metrics output
+
+Run:
+```bash
+docker compose up --build
